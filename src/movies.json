@@ -1,0 +1,55 @@
+{
+    "0": [
+        { 
+            "name": "有兽焉",
+            "description": "随着科技的发展，往日威风凛凛的神兽们日子大不如前。神兽四不像奉命下凡，去解救流落人间的落魄神兽。在凡间，他遇到了走投无路的老同事貔貅，不得志的酒友兔爷，被贬下凡的金银角兄弟......他们之间会发生怎样的故事？《有兽焉》每周三更新，欢迎来到毛球们的世界！作者：靴下猫腰子",
+            "year": "2022",
+            "genre": {
+                "one": "Drama",
+                "two": "Story",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "两不疑",
+            "description": "皇帝差点就被红着脸的皇后推了下去。他们一起掉进了水池里。不幸的是，他们互换了身体。在恢复正常之前，皇帝必须对付他那些卑鄙的妃嫔和他从未认识的母亲太后；皇后必须调解大臣之间的关系。",
+            "year": "2022",
+            "genre": {
+                "one": "Action",
+                "two": "Drama",
+                "three": "War"
+            }
+        },
+        { 
+            "name": "Scissor Seven",
+            "description": "In his search, he is asked to become a neatly trimmed curler after his own anniversary, a quasi-attention-gatherer, launching two attacks between power struggles.",
+            "year": "2022",
+            "genre": {
+                "one": "Action",
+                "two": "Adventure",
+                "three": "Fantasy"
+            }
+        },
+        { 
+            "name": "The Boondocks",
+            "description": "Based on the comic strip, Huey and Riley move from the city to the suburbs with their hot-tempered grandfather. A biting sociopolitical commentary ensues.",
+            "year": "2022",
+            "genre": {
+                "one": "Action",
+                "two": "Comedy",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "领风者",
+            "description": "简介：《领风者》讲述了“千年思想家”卡尔·马克思一生的传奇故事。马克思既是顶天立地的伟人，他穷其一生构建的思想体系，唤醒了全世界沉睡中的无产阶级，深刻影响了世界历史发展的格局。马克思也是有血有肉的常人，他与燕妮被阻挠的爱情、与恩格斯差点错过的友谊，最后都成为了传世佳话。",
+            "year": "2022",
+            "genre": {
+                "one": "Crime",
+                "two": "Drama",
+                "three": "Mystery"
+            }
+        }
+        
+    ]
+}
